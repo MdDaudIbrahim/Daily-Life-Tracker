@@ -115,25 +115,25 @@ const Dashboard = () => {
           icon={<Cloud className="w-8 h-8 text-blue-500" />}
           title="Weather"
           description="Check today's forecast"
-          link="/weather"
+          link="/Daily-Life-Tracker/weather"
         />
         <DashboardCard
           icon={<DollarSign className="w-8 h-8 text-green-500" />}
           title="Expenses"
           description="Track your spending"
-          link="/expenses"
+          link="/Daily-Life-Tracker/expenses"
         />
         <DashboardCard
           icon={<Calendar className="w-8 h-8 text-purple-500" />}
           title="Daily Routine"
           description="Manage your schedule"
-          link="/routine"
+          link="/Daily-Life-Tracker/routine"
         />
         <DashboardCard
           icon={<FileText className="w-8 h-8 text-yellow-500" />}
           title="Notes"
           description="Organize your thoughts"
-          link="/notes"
+          link="/Daily-Life-Tracker/notes"
         />
       </div>
 
