@@ -3,10 +3,12 @@
   <head>
     <meta charset="utf-8">
     <title>Daily Life Tracker</title>
+    <meta http-equiv="refresh" content="0; url=/Daily-Life-Tracker/">
     <script type="text/javascript">
-      // Redirect to the base URL for client-side routing
-      sessionStorage.redirect = location.pathname;
-      window.location.replace('/Daily-Life-Tracker/');
+      document.addEventListener("DOMContentLoaded", function () {
+        sessionStorage.redirect = location.pathname;
+        window.location.replace('/Daily-Life-Tracker/');
+      });
     </script>
   </head>
   <body>
