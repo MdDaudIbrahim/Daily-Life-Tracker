@@ -1,1 +1,1 @@
-Here is Preview Live Linl--->https://daily-life-trackers.netlify.app/
+Here is Preview Live Link--->https://daily-life-trackers.netlify.app/
