@@ -11,7 +11,7 @@ import Routine from './pages/Routine';
 
 function App() {
   return (
-    <BrowserRouter basename="/Daily-Life-Tracker">
+    <BrowserRouter basename="/Daily-Life-Tracker/">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Dashboard />} />

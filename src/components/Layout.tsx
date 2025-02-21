@@ -23,13 +23,13 @@ const Layout = () => {
           </h1>
         </div>
         <nav className="mt-4">
-          <NavLink to="/" icon={<Home size={20} />} text="Dashboard" isActive={isActiveRoute('/')} />
-          <NavLink to="/weather" icon={<Cloud size={20} />} text="Weather" isActive={isActiveRoute('/weather')} />
-          <NavLink to="/expenses" icon={<DollarSign size={20} />} text="Expenses" isActive={isActiveRoute('/expenses')} />
-          <NavLink to="/news" icon={<Newspaper size={20} />} text="Tech News" isActive={isActiveRoute('/news')} />
-          <NavLink to="/notes" icon={<FileText size={20} />} text="Notes" isActive={isActiveRoute('/notes')} />
-          <NavLink to="/chat" icon={<MessageSquare size={20} />} text="Chat" isActive={isActiveRoute('/chat')} />
-          <NavLink to="/routine" icon={<Calendar size={20} />} text="Routine" isActive={isActiveRoute('/routine')} />
+          <NavLink to="/" icon={<Home size={20} />} text="Dashboard" isActive={isActiveRoute('/Daily-Life-Tracker/')} />
+          <NavLink to="/weather" icon={<Cloud size={20} />} text="Weather" isActive={isActiveRoute('/Daily-Life-Tracker/weather')} />
+          <NavLink to="/expenses" icon={<DollarSign size={20} />} text="Expenses" isActive={isActiveRoute('/Daily-Life-Tracker/expenses')} />
+          <NavLink to="/news" icon={<Newspaper size={20} />} text="Tech News" isActive={isActiveRoute('/Daily-Life-Tracker/news')} />
+          <NavLink to="/notes" icon={<FileText size={20} />} text="Notes" isActive={isActiveRoute('/Daily-Life-Tracker/notes')} />
+          <NavLink to="/chat" icon={<MessageSquare size={20} />} text="Chat" isActive={isActiveRoute('/Daily-Life-Tracker/chat')} />
+          <NavLink to="/routine" icon={<Calendar size={20} />} text="Routine" isActive={isActiveRoute('/Daily-Life-Tracker/routine')} />
         </nav>
       </aside>
 
