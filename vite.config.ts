@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/Daily-Life-Tracker/", // Ensure this matches your hosting subdirectory
+  base: "/Daily-Life-Tracker/",
 })
