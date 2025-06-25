@@ -43,7 +43,10 @@ Daily Life Tracker is a comprehensive web application designed to help you organ
 ## 📸 Showcase
 
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/b20adce5-f2f9-45b8-9b76-d4a4324bfcc6" />
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/b20adce5-f2f9-45b8-9b76-d4a4324bfcc6" />
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/cc0fbe11-3c4e-4dab-acb1-10fb20f17265" />
+
+
 
 
 
